@@ -1,5 +1,5 @@
 # QUIZ-RETORNO
-![0](https://user-images.githubusercontent.com/25473299/142776306-9ef77b97-f015-41e8-83fa-00a22a15cc27.jpg)
-![1](https://user-images.githubusercontent.com/25473299/142776308-a1dd7412-cf8d-49e8-859e-8bc04a979a2a.jpg)
-![2](https://user-images.githubusercontent.com/25473299/142776310-ce164bce-8cad-498e-a642-9ccc1f21bf0d.jpg)
-![3](https://user-images.githubusercontent.com/25473299/142776313-c86ca6fd-7381-430f-bd62-a8cec7180dcc.jpg)
+![0](https://user-images.githubusercontent.com/25473299/142776727-99d0b360-f48f-4a27-8e1c-c9db536b0023.jpg)
+![1](https://user-images.githubusercontent.com/25473299/142776731-2c1e2e24-d97d-4a78-92cd-1e8afc0d06f7.jpg)
+![2](https://user-images.githubusercontent.com/25473299/142776733-f7e52508-d988-497a-ab3b-6b5b8f55e02a.jpg)
+![3](https://user-images.githubusercontent.com/25473299/142776735-53588adc-7dcd-4c1c-b715-45871ce6b15e.jpg)
